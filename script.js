@@ -113,5 +113,3 @@ document.querySelector('.again').addEventListener('click', function () {
   setBackgroundColorBody('#222');
   setSecretNumberWidth('15rem');
 });
-
-alert('new feature');
